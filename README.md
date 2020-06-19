@@ -1,0 +1,2 @@
+# BMRCaluculator
+Privacy policy page
